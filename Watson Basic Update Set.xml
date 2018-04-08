@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<unload unload_date="2018-04-08 12:29:27">
+<unload unload_date="2018-04-08 12:37:33">
 <sys_remote_update_set action="INSERT_OR_UPDATE">
 <application display_value="Global">global</application>
 <application_name>Global</application_name>
@@ -21,11 +21,11 @@
 <summary/>
 <sys_class_name>sys_remote_update_set</sys_class_name>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2018-04-08 12:29:27</sys_created_on>
-<sys_id>eef696da4f1113000d314a10a310c728</sys_id>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>59d8da1e4f1113000d314a10a310c761</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2018-04-08 12:29:27</sys_updated_on>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
 <update_set display_value=""/>
 <update_source display_value=""/>
 <updated/>
@@ -35,44 +35,18 @@
 <application display_value="Global">global</application>
 <category>customer</category>
 <comments/>
-<name>incident_78271e1347c12200e0ef563dbb9a7109</name>
-<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="incident"><incident action="INSERT_OR_UPDATE"><active>true</active><activity_due/><additional_assignee_list/><approval>not requested</approval><approval_history/><approval_set/><assigned_to/><assignment_group/><business_duration/><business_service/><business_stc/><calendar_duration/><calendar_stc/><caller_id display_value="Sarah Bing">e605929a4f1113000d314a10a310c733</caller_id><category>inquiry</category><caused_by/><child_incidents>0</child_incidents><close_code/><close_notes/><closed_at/><closed_by/><cmdb_ci/><comments/><comments_and_work_notes/><company/><contact_type/><correlation_display/><correlation_id/><delivery_plan/><delivery_task/><description>Wifi connection seems slow. Webpages are taking a very long time to load.</description><due_date/><escalation>0</escalation><expected_start/><follow_up/><group_list/><hold_reason/><impact>3</impact><incident_state>1</incident_state><knowledge>false</knowledge><location/><made_sla>true</made_sla><notify>1</notify><number>INC0000057</number><opened_at>2016-08-10 16:14:59</opened_at><opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by><order/><parent/><parent_incident/><priority>5</priority><problem_id/><reassignment_count>0</reassignment_count><rejection_goto/><reopen_count>0</reopen_count><reopened_by/><reopened_time/><resolved_at/><resolved_by/><rfc/><severity>3</severity><short_description>Performance problems with wifi</short_description><sla_due/><state>1</state><subcategory/><sys_class_name>incident</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-08-10 16:14:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>78271e1347c12200e0ef563dbb9a7109</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:23:12</sys_updated_on><time_worked/><upon_approval>proceed</upon_approval><upon_reject>cancel</upon_reject><urgency>3</urgency><user_input/><variables/><watch_list/><wf_activity/><work_end/><work_notes/><work_notes_list/><work_start/></incident></record_update>]]></payload>
-<payload_hash>1368108966</payload_hash>
-<remote_update_set display_value="Watson - Basic Setup">eef696da4f1113000d314a10a310c728</remote_update_set>
-<replace_on_upgrade>false</replace_on_upgrade>
-<sys_created_by>admin</sys_created_by>
-<sys_created_on>2018-04-08 12:29:27</sys_created_on>
-<sys_id>26f696da4f1113000d314a10a310c729</sys_id>
-<sys_mod_count>0</sys_mod_count>
-<sys_recorded_at>162a539ea740000001</sys_recorded_at>
-<sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2018-04-08 12:29:27</sys_updated_on>
-<table/>
-<target_name>INC0000057</target_name>
-<type>Incident</type>
-<update_domain>global</update_domain>
-<update_guid>409612da401113003d6963d298f08f0f</update_guid>
-<update_guid_history>409612da401113003d6963d298f08f0f:1368108966</update_guid_history>
-<update_set display_value=""/>
-<view/>
-</sys_update_xml>
-<sys_update_xml action="INSERT_OR_UPDATE">
-<action>INSERT_OR_UPDATE</action>
-<application display_value="Global">global</application>
-<category>customer</category>
-<comments/>
 <name>incident_85071a1347c12200e0ef563dbb9a71c1</name>
 <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="incident"><incident action="INSERT_OR_UPDATE"><active>true</active><activity_due/><additional_assignee_list/><approval>not requested</approval><approval_history/><approval_set/><assigned_to/><assignment_group/><business_duration/><business_service/><business_stc/><calendar_duration/><calendar_stc/><caller_id display_value="Sarah Bing">e605929a4f1113000d314a10a310c733</caller_id><category>inquiry</category><caused_by/><child_incidents>0</child_incidents><close_code/><close_notes/><closed_at/><closed_by/><cmdb_ci/><comments/><comments_and_work_notes/><company/><contact_type>self-service</contact_type><correlation_display/><correlation_id/><delivery_plan/><delivery_task/><description>I can access my personal folder but can't access my team's folder on our file share.</description><due_date/><escalation>0</escalation><expected_start/><follow_up/><group_list/><hold_reason/><impact>2</impact><incident_state>1</incident_state><knowledge>false</knowledge><location/><made_sla>true</made_sla><notify>1</notify><number>INC0000059</number><opened_at>2016-08-10 16:14:29</opened_at><opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by><order/><parent/><parent_incident/><priority>3</priority><problem_id/><reassignment_count>0</reassignment_count><rejection_goto/><reopen_count>0</reopen_count><reopened_by/><reopened_time/><resolved_at/><resolved_by/><rfc/><severity>3</severity><short_description>Unable to access team file share</short_description><sla_due/><state>1</state><subcategory/><sys_class_name>incident</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-08-10 16:14:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>85071a1347c12200e0ef563dbb9a71c1</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:23:10</sys_updated_on><time_worked/><upon_approval>proceed</upon_approval><upon_reject>cancel</upon_reject><urgency>2</urgency><user_input/><variables/><watch_list/><wf_activity/><work_end/><work_notes/><work_notes_list/><work_start/></incident></record_update>]]></payload>
 <payload_hash>96221813</payload_hash>
-<remote_update_set display_value="Watson - Basic Setup">eef696da4f1113000d314a10a310c728</remote_update_set>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2018-04-08 12:29:27</sys_created_on>
-<sys_id>2ef696da4f1113000d314a10a310c729</sys_id>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>11d8da1e4f1113000d314a10a310c762</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>162a53a43510000001</sys_recorded_at>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2018-04-08 12:29:27</sys_updated_on>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
 <table/>
 <target_name>INC0000059</target_name>
 <type>Incident</type>
@@ -87,24 +61,336 @@
 <application display_value="Global">global</application>
 <category>customer</category>
 <comments/>
+<name>sys_user_has_role_96985a1e4f1113000d314a10a310c7eb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count>1</inh_count><inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map><inherited>true</inherited><role display_value="soap_delete" name="soap_delete">32f187ab0a0a0b5000a4e6ca5c599dcd</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:32</sys_created_on><sys_id>96985a1e4f1113000d314a10a310c7eb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:32</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>-1449072171</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>11d8da1e4f1113000d314a10a310c765</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cf0b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>soap_delete.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>e2c81e1e00111300541cbfcb29f64c34</update_guid>
+<update_guid_history>e2c81e1e00111300541cbfcb29f64c34:-1449072171,cca85a1e5b111300a3097c8dcfdd1c9b:-1449072171</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_5e985a1e4f1113000d314a10a310c7d6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count>1</inh_count><inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map><inherited>true</inherited><role display_value="pa_viewer" name="pa_viewer">a90d30b3bf101100b96dac808c073950</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:32</sys_created_on><sys_id>5e985a1e4f1113000d314a10a310c7d6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:32</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>-480313333</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>15d8da1e4f1113000d314a10a310c764</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cfdd0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>pa_viewer.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>2ac81e1e56111300fd42eb0f7b1e053f</update_guid>
+<update_guid_history>2ac81e1e56111300fd42eb0f7b1e053f:-480313333,4ca89a1efd1113006992793e637fba4a:-480313333</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_1e985a1e4f1113000d314a10a310c7d1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count>1</inh_count><inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map><inherited>true</inherited><role display_value="dependency_views" name="dependency_views">14fa2dc39f230200ee6219eb552e7006</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:31</sys_created_on><sys_id>1e985a1e4f1113000d314a10a310c7d1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:31</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>40925135</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>19d8da1e4f1113000d314a10a310c763</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cea90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>dependency_views.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>dec81adaab1113000dacd84b1c69a9e3</update_guid>
+<update_guid_history>dec81adaab1113000dacd84b1c69a9e3:40925135,c4a85a1eb611130018e9adf3989a5594:40925135</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
 <name>sys_user_e605929a4f1113000d314a10a310c733</name>
 <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_user"><sys_user action="INSERT_OR_UPDATE"><accumulated_roles/><active>true</active><building/><calendar_integration>1</calendar_integration><city/><company/><cost_center/><country/><date_format/><default_perspective/><department/><edu_status>faculty</edu_status><email>Sarah.Bing@function-ai.com</email><employee_number/><enable_multifactor_authn>false</enable_multifactor_authn><failed_attempts/><first_name>Sarah</first_name><gender/><home_phone/><internal_integration_user>false</internal_integration_user><introduction/><last_login/><last_login_device/><last_login_time/><last_name>Bing</last_name><last_password/><ldap_server/><location/><locked_out>false</locked_out><manager/><middle_name/><mobile_phone/><name>Sarah Bing</name><notification>2</notification><password_needs_reset>false</password_needs_reset><phone/><photo/><preferred_language>en</preferred_language><roles/><schedule/><source/><state/><street/><sys_class_name>sys_user</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:21:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e605929a4f1113000d314a10a310c733</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:21:35</sys_updated_on><time_format/><time_zone>US/Eastern</time_zone><title/><user_name>sarah.bing</user_name><user_password>$s$Zd7x3TzkMgL8fEv4QTgqvdYipePWhSNq2nGKq0dPCv4=$o8KCyIYxjyEDsVh2wArM5tCmzzoaGFyJrIWffL2y29Y=</user_password><vip>false</vip><web_service_access_only>false</web_service_access_only><zip/></sys_user></record_update>]]></payload>
 <payload_hash>2110628012</payload_hash>
-<remote_update_set display_value="Watson - Basic Setup">eef696da4f1113000d314a10a310c728</remote_update_set>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2018-04-08 12:29:27</sys_created_on>
-<sys_id>66f696da4f1113000d314a10a310c72a</sys_id>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>1dd8da1e4f1113000d314a10a310c762</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>162a53995860000001</sys_recorded_at>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2018-04-08 12:29:27</sys_updated_on>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
 <table/>
 <target_name>Sarah Bing</target_name>
 <type>User</type>
 <update_domain>global</update_domain>
 <update_guid>b276d2da8d11130016768506b04a340c</update_guid>
 <update_guid_history>b276d2da8d11130016768506b04a340c:2110628012</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_da985a1e4f1113000d314a10a310c7dc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count>1</inh_count><inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map><inherited>true</inherited><role display_value="soap_script" name="soap_script">33d49dfc0a0a0b50007950e548b11ef5</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:32</sys_created_on><sys_id>da985a1e4f1113000d314a10a310c7dc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:32</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>1922877446</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>1dd8da1e4f1113000d314a10a310c765</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cf460000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>soap_script.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>6ac81e1e42111300e847252e07825337</update_guid>
+<update_guid_history>6ac81e1e42111300e847252e07825337:1922877446,48a89a1ee31113002332b207a8112741:1922877446</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_5a98d6da4f1113000d314a10a310c7e3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count>1</inh_count><inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map><inherited>true</inherited><role display_value="template_editor" name="template_editor">3892c666b9e013006517ce7df7ee467b</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:31</sys_created_on><sys_id>5a98d6da4f1113000d314a10a310c7e3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:31</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>-1380705277</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>51d8da1e4f1113000d314a10a310c764</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cf570000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>template_editor.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>eac81e1e5b111300b25a2a7a2d800b38</update_guid>
+<update_guid_history>eac81e1e5b111300b25a2a7a2d800b38:-1380705277,8ca89a1e11111300389c5442687fc642:-1380705277</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_1a985a1e4f1113000d314a10a310c7d2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count>1</inh_count><inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map><inherited>true</inherited><role display_value="cmdb_query_builder" name="cmdb_query_builder">45af8773d7002200c1ed0fbc5e61037a</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:31</sys_created_on><sys_id>1a985a1e4f1113000d314a10a310c7d2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:31</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>1087831874</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>55d8da1e4f1113000d314a10a310c763</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cf800000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>cmdb_query_builder.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>22c81e1e2411130089a188281b409b3b</update_guid>
+<update_guid_history>22c81e1e2411130089a188281b409b3b:1087831874,48a89a1ea7111300638ee4f68c3db545:1087831874</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_ac781ada4f1113000d314a10a310c7dd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_user"><sys_user action="INSERT_OR_UPDATE"><accumulated_roles/><active>true</active><building/><calendar_integration>1</calendar_integration><city/><company/><cost_center/><country/><date_format/><default_perspective/><department/><edu_status>faculty</edu_status><email>watson@function-ai.com</email><employee_number/><enable_multifactor_authn>false</enable_multifactor_authn><failed_attempts/><first_name>Watson</first_name><gender/><home_phone/><internal_integration_user>false</internal_integration_user><introduction/><last_login/><last_login_device/><last_login_time/><last_name>API Integration</last_name><last_password/><ldap_server/><location/><locked_out>false</locked_out><manager/><middle_name/><mobile_phone/><name>Watson API Integration</name><notification>2</notification><password_needs_reset>false</password_needs_reset><phone/><photo/><preferred_language/><roles/><schedule/><source/><state/><street/><sys_class_name>sys_user</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ac781ada4f1113000d314a10a310c7dd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:10</sys_updated_on><time_format/><time_zone/><title/><user_name>watson</user_name><user_password>$s$0Cwr2Uc8QtN2t+BjBflOQ6IbdEsWjgELF/jEeShu5+c=$dslb1PErmKeuUURQq15VTmhjswGtJo5kfUIc9+b/Rhc=</user_password><vip>false</vip><web_service_access_only>false</web_service_access_only><zip/></sys_user></record_update>]]></payload>
+<payload_hash>1469115292</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>59d8da1e4f1113000d314a10a310c762</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542a4a40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>Watson API Integration</target_name>
+<type>User</type>
+<update_domain>global</update_domain>
+<update_guid>3fb8d6daa91113009faf15913069e4ef</update_guid>
+<update_guid_history>3fb8d6daa91113009faf15913069e4ef:1469115292</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_d6985a1e4f1113000d314a10a310c7dd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count>1</inh_count><inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map><inherited>true</inherited><role display_value="soap_query" name="soap_query">32f0805e0a0a0b50006eb0c4cbbe89aa</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:32</sys_created_on><sys_id>d6985a1e4f1113000d314a10a310c7dd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:32</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>-681034383</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>59d8da1e4f1113000d314a10a310c765</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542ceea0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>soap_query.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>16c81adafa11130085be87bcc55d54e8</update_guid>
+<update_guid_history>16c81adafa11130085be87bcc55d54e8:-681034383,44a85a1e68111300176afc8e4088aa99:-681034383</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>incident_78271e1347c12200e0ef563dbb9a7109</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="incident"><incident action="INSERT_OR_UPDATE"><active>true</active><activity_due/><additional_assignee_list/><approval>not requested</approval><approval_history/><approval_set/><assigned_to/><assignment_group/><business_duration/><business_service/><business_stc/><calendar_duration/><calendar_stc/><caller_id display_value="Sarah Bing">e605929a4f1113000d314a10a310c733</caller_id><category>inquiry</category><caused_by/><child_incidents>0</child_incidents><close_code/><close_notes/><closed_at/><closed_by/><cmdb_ci/><comments/><comments_and_work_notes/><company/><contact_type/><correlation_display/><correlation_id/><delivery_plan/><delivery_task/><description>Wifi connection seems slow. Webpages are taking a very long time to load.</description><due_date/><escalation>0</escalation><expected_start/><follow_up/><group_list/><hold_reason/><impact>3</impact><incident_state>1</incident_state><knowledge>false</knowledge><location/><made_sla>true</made_sla><notify>1</notify><number>INC0000057</number><opened_at>2016-08-10 16:14:59</opened_at><opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by><order/><parent/><parent_incident/><priority>5</priority><problem_id/><reassignment_count>0</reassignment_count><rejection_goto/><reopen_count>0</reopen_count><reopened_by/><reopened_time/><resolved_at/><resolved_by/><rfc/><severity>3</severity><short_description>Performance problems with wifi</short_description><sla_due/><state>1</state><subcategory/><sys_class_name>incident</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-08-10 16:14:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>78271e1347c12200e0ef563dbb9a7109</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:23:12</sys_updated_on><time_worked/><upon_approval>proceed</upon_approval><upon_reject>cancel</upon_reject><urgency>3</urgency><user_input/><variables/><watch_list/><wf_activity/><work_end/><work_notes/><work_notes_list/><work_start/></incident></record_update>]]></payload>
+<payload_hash>1368108966</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>5dd8da1e4f1113000d314a10a310c761</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a539ea740000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>INC0000057</target_name>
+<type>Incident</type>
+<update_domain>global</update_domain>
+<update_guid>409612da401113003d6963d298f08f0f</update_guid>
+<update_guid_history>409612da401113003d6963d298f08f0f:1368108966</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_96985a1e4f1113000d314a10a310c7d4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count/><inh_map/><inherited>false</inherited><role display_value="rest_api_explorer" name="rest_api_explorer">d0d45ba0470002004695d7527c9a71c6</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:32</sys_created_on><sys_id>96985a1e4f1113000d314a10a310c7d4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:32</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>-724660725</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>5dd8da1e4f1113000d314a10a310c764</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542d0030000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>rest_api_explorer.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>eec81e1ebe111300ca2c053aa051af41</update_guid>
+<update_guid_history>eec81e1ebe111300ca2c053aa051af41:-724660725,88a89a1e2a1113004fc0ad90d05c6e4d:-724660725</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_16985a1e4f1113000d314a10a310c7d3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count>1</inh_count><inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map><inherited>true</inherited><role display_value="sn_bm_client.benchmark_data_viewer" name="sn_bm_client.benchmark_data_viewer">553b1f166723220097eeff5557415a6a</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:31</sys_created_on><sys_id>16985a1e4f1113000d314a10a310c7d3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:31</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>823369147</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>91d8da1e4f1113000d314a10a310c763</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cf970000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>sn_bm_client.benchmark_data_viewer.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>a2c81e1eb9111300d2feeee48a04273c</update_guid>
+<update_guid_history>a2c81e1eb9111300d2feeee48a04273c:823369147,8ca89a1e7b11130065a64c3770692d46:823369147</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_de98d6da4f1113000d314a10a310c7e1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count>1</inh_count><inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map><inherited>true</inherited><role display_value="certification" name="certification">ba4509c60a00070400cc0f3a60a0d30a</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:31</sys_created_on><sys_id>de98d6da4f1113000d314a10a310c7e1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:31</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>1984830817</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>91d8da1e4f1113000d314a10a310c766</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cfee0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>certification.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>aac81e1efe111300bbe9838c823d4f40</update_guid>
+<update_guid_history>aac81e1efe111300bbe9838c823d4f40:1984830817,80a89a1e891113007bd1a0f3166be94c:1984830817</update_guid_history>
 <update_set display_value=""/>
 <view/>
 </sys_update_xml>
@@ -156,15 +442,15 @@ function pushUpdate(){
    action.setRedirectURL(current);
 }]]&gt;&lt;/script&gt;&lt;show_insert&gt;false&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-04-08 12:25:23&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;b7c51e9a4f1113000d314a10a310c73e&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Force to Update Set&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_b7c51e9a4f1113000d314a10a310c73e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-04-08 12:27:09&lt;/sys_updated_on&gt;&lt;table&gt;global&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
 <payload_hash>-78129982</payload_hash>
-<remote_update_set display_value="Watson - Basic Setup">eef696da4f1113000d314a10a310c728</remote_update_set>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2018-04-08 12:29:27</sys_created_on>
-<sys_id>a2f696da4f1113000d314a10a310c72a</sys_id>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>95d8da1e4f1113000d314a10a310c762</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>162a53975aa0000001</sys_recorded_at>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2018-04-08 12:29:27</sys_updated_on>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
 <table>global</table>
 <target_name>Force to Update Set</target_name>
 <type>UI Action</type>
@@ -179,24 +465,232 @@ function pushUpdate(){
 <application display_value="Global">global</application>
 <category>customer</category>
 <comments/>
+<name>sys_user_has_role_9a98d6da4f1113000d314a10a310c7de</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count/><inh_map/><inherited>false</inherited><role display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:31</sys_created_on><sys_id>9a98d6da4f1113000d314a10a310c7de</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:31</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>-831139250</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>95d8da1e4f1113000d314a10a310c765</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cec10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>itil.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>5ac81ada52111300f8b741f95aeb7ce5</update_guid>
+<update_guid_history>5ac81ada52111300f8b741f95aeb7ce5:-831139250,04a85a1e7a111300f2ac6c84b566de96:-831139250</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_92985a1e4f1113000d314a10a310c7ec</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count>1</inh_count><inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map><inherited>true</inherited><role display_value="soap_ecc" name="soap_ecc">33c84e730a0a0b5000a0a2ccfeb230ae</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:32</sys_created_on><sys_id>92985a1e4f1113000d314a10a310c7ec</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:32</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>74887099</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>99d8da1e4f1113000d314a10a310c764</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cf2d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>soap_ecc.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>e6c81e1e3d111300dac9e1940a06e236</update_guid>
+<update_guid_history>e6c81e1e3d111300dac9e1940a06e236:74887099,48a85a1e191113002c6ce0146afed79e:74887099</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_52985a1e4f1113000d314a10a310c7d6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count>1</inh_count><inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map><inherited>true</inherited><role display_value="api_analytics_read" name="api_analytics_read">94f673079fb01200ef4afa7dc67fcf97</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:32</sys_created_on><sys_id>52985a1e4f1113000d314a10a310c7d6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:32</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>-43217277</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>9dd8da1e4f1113000d314a10a310c763</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cfca0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>api_analytics_read.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>a6c81e1eb4111300127e5764639bb63e</update_guid>
+<update_guid_history>a6c81e1eb4111300127e5764639bb63e:-43217277,08a89a1ee4111300a5609749300dcf49:-43217277</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
 <name>incident_965c9e5347c12200e0ef563dbb9a7156</name>
 <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="incident"><incident action="INSERT_OR_UPDATE"><active>true</active><activity_due/><additional_assignee_list/><approval>not requested</approval><approval_history/><approval_set/><assigned_to/><assignment_group/><business_duration/><business_service/><business_stc/><calendar_duration/><calendar_stc/><caller_id display_value="Sarah Bing">e605929a4f1113000d314a10a310c733</caller_id><category>inquiry</category><caused_by/><child_incidents>0</child_incidents><close_code/><close_notes/><closed_at/><closed_by/><cmdb_ci/><comments/><comments_and_work_notes/><company/><contact_type/><correlation_display/><correlation_id/><delivery_plan/><delivery_task/><description>Taking a really long time to send emails. Last email took almost a minute for sending to complete and there wasn't even an attachment.</description><due_date/><escalation>0</escalation><expected_start/><follow_up/><group_list/><hold_reason/><impact>3</impact><incident_state>1</incident_state><knowledge>false</knowledge><location/><made_sla>true</made_sla><notify>1</notify><number>INC0000058</number><opened_at>2016-08-10 16:37:45</opened_at><opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by><order/><parent/><parent_incident/><priority>5</priority><problem_id/><reassignment_count>0</reassignment_count><rejection_goto/><reopen_count>0</reopen_count><reopened_by/><reopened_time/><resolved_at/><resolved_by/><rfc/><severity>3</severity><short_description>Performance problems with email</short_description><sla_due/><state>1</state><subcategory/><sys_class_name>incident</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-08-10 16:37:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>965c9e5347c12200e0ef563dbb9a7156</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:23:13</sys_updated_on><time_worked/><upon_approval>proceed</upon_approval><upon_reject>cancel</upon_reject><urgency>3</urgency><user_input/><variables/><watch_list/><wf_activity/><work_end/><work_notes/><work_notes_list/><work_start/></incident></record_update>]]></payload>
 <payload_hash>-465365051</payload_hash>
-<remote_update_set display_value="Watson - Basic Setup">eef696da4f1113000d314a10a310c728</remote_update_set>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
 <replace_on_upgrade>false</replace_on_upgrade>
 <sys_created_by>admin</sys_created_by>
-<sys_created_on>2018-04-08 12:29:27</sys_created_on>
-<sys_id>eef696da4f1113000d314a10a310c729</sys_id>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>d1d8da1e4f1113000d314a10a310c762</sys_id>
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>162a53a1cd10000001</sys_recorded_at>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2018-04-08 12:29:27</sys_updated_on>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
 <table/>
 <target_name>INC0000058</target_name>
 <type>Incident</type>
 <update_domain>global</update_domain>
 <update_guid>5796d2dacc1113004bd3151ea2ab2f0e</update_guid>
 <update_guid_history>5796d2dacc1113004bd3151ea2ab2f0e:-465365051</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_9a985a1e4f1113000d314a10a310c7ea</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count>1</inh_count><inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map><inherited>true</inherited><role display_value="soap_create" name="soap_create">32fc30ca0a0a0b50007a39df0563993d</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:32</sys_created_on><sys_id>9a985a1e4f1113000d314a10a310c7ea</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:32</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>-714772409</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>d1d8da1e4f1113000d314a10a310c765</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cf1c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>soap_create.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>66c81e1ec11113001bd7ab0d7a487935</update_guid>
+<update_guid_history>66c81e1ec11113001bd7ab0d7a487935:-714772409,04a85a1e47111300024f40bf7c0b129d:-714772409</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_5e98d6da4f1113000d314a10a310c7e2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count>1</inh_count><inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map><inherited>true</inherited><role display_value="view_changer" name="view_changer">8a454be00a0a0b8c00de7dae26869165</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:31</sys_created_on><sys_id>5e98d6da4f1113000d314a10a310c7e2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:31</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>-1730086443</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>d5d8da1e4f1113000d314a10a310c764</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cfb30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>view_changer.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>26c81e1ed0111300b05e116055684f3d</update_guid>
+<update_guid_history>26c81e1ed0111300b05e116055684f3d:-1730086443,c0a89a1e8a1113004d2d9490b4c67548:-1730086443</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_1e985a1e4f1113000d314a10a310c7d7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count/><inh_map/><inherited>false</inherited><role display_value="rest_service" name="rest_service">3dfd67229f22110041a496fcc67fcf6c</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:32</sys_created_on><sys_id>1e985a1e4f1113000d314a10a310c7d7</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:32</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>-929894616</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>d9d8da1e4f1113000d314a10a310c763</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cf6d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>rest_service.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>aec81e1e9711130046443043dce98739</update_guid>
+<update_guid_history>aec81e1e9711130046443043dce98739:-929894616,04a89a1e5f11130015b3b608f6fc2344:-929894616</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_12985a1e4f1113000d314a10a310c7d9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count/><inh_map/><inherited>false</inherited><role display_value="soap" name="soap">32e527030a0a0b5000d51d88b28db5c8</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:32</sys_created_on><sys_id>12985a1e4f1113000d314a10a310c7d9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:32</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>2089820735</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>ddd8da1e4f1113000d314a10a310c762</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542ced80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>soap.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>92c81adaf9111300244e39c99d0e06e7</update_guid>
+<update_guid_history>92c81adaf9111300244e39c99d0e06e7:2089820735,00a85a1e821113000030c3d6adcd0698:2089820735</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_has_role_de985a1e4f1113000d314a10a310c7db</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_has_role"><sys_user_has_role action="INSERT_OR_UPDATE"><granted_by display_value="">not-applicable</granted_by><included_in_role/><included_in_role_instance/><inh_count>1</inh_count><inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map><inherited>true</inherited><role display_value="soap_update" name="soap_update">32f15d850a0a0b5000b3dcda00bff929</role><state>active</state><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-08 12:36:32</sys_created_on><sys_id>de985a1e4f1113000d314a10a310c7db</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-08 12:36:32</sys_updated_on><user display_value="Watson API Integration">ac781ada4f1113000d314a10a310c7dd</user></sys_user_has_role></record_update>]]></payload>
+<payload_hash>452491660</payload_hash>
+<remote_update_set display_value="Watson - Basic Setup">59d8da1e4f1113000d314a10a310c761</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-08 12:37:33</sys_created_on>
+<sys_id>ddd8da1e4f1113000d314a10a310c765</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>162a542cefa0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-08 12:37:33</sys_updated_on>
+<table/>
+<target_name>soap_update.Watson API Integration</target_name>
+<type>User Role</type>
+<update_domain>global</update_domain>
+<update_guid>62c81e1ee711130061e3b50fa1fe5d33</update_guid>
+<update_guid_history>62c81e1ee711130061e3b50fa1fe5d33:452491660,88a85a1e6d111300388153bc28c5619a:452491660</update_guid_history>
 <update_set display_value=""/>
 <view/>
 </sys_update_xml>
